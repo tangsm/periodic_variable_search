@@ -1,4 +1,4 @@
-periodic_search
+periodic_variable_search
 ===============
 
 A Python pipeline to automatically calibrate astronomical images and identify periodic variable stars. 
